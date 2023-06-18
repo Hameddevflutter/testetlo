@@ -1,7 +1,7 @@
 import 'package:bot_toast/bot_toast.dart';
 import 'package:flutter/material.dart';
 
-import 'features/login_screen/ui/home_screen.dart';
+import 'features/home_screen/ui/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
